@@ -7,7 +7,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvbcarv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=FFFFF0" />
 </div>
 
-<p color=pink> Sou Graduanda em Engenharia de Software no INATEL.<br>
+<p align="center"> Sou Graduanda em Engenharia de Software no INATEL.<br>
 Já sou formada em Análise e Desenvolvimento de Sistemas e Especializada em Transformação Digital.<br>
 Além disso, sou bacharel em Admnistração de Empresas, </p>
 
