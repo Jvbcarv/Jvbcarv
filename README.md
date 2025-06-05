@@ -8,11 +8,9 @@
 </div>
 
 <br>
-<p align="center"> Sou Graduanda em Engenharia de Software no INATEL.<br>
-Já sou formada em Análise e Desenvolvimento de Sistemas e Especializada em Transformação Digital.<br>
-  <br>Atualmente, estou focada em me aprimorar nas seguintes tecnologias:<br>  
-Java | Spring Boot | Python | HTML & CSS | JavaScript | C++ | PHP </p>
-
+<p align="center"> I am a Software Engineering student at INATEL.<br>
+I have a degree in Systems Analysis and Development and a specialization in Digital Transformation.<br>
+<br>I am currently focused on improving my skills in the following technologies:<br>  
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
@@ -27,17 +25,12 @@ Java | Spring Boot | Python | HTML & CSS | JavaScript | C++ | PHP </p>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvbcarv&bg_color=fffff0&color=846043&line=ff91a4&point=deb887&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">🌐 Connect with me:</p>
 <div align="center"> 
 <a href="https://instagram.com/jovanavbc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:jovanavbc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/jovana-vilas-boas/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
-
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{carolbarbosa101}/count.svg" /></p> 
-<br>
-</div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=footer"/>
