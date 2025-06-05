@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jovana.;Sou+estudante+de++Engenharia+de+Software.;Sejam+bem-vindos!+:%29)](https://git.io/typing-svg)
 
 <p align="center"> Sou estudante de Engenharia de Software no INATEL.<br>
-Sou formada em Análise e Desenvolvimento de Sistemas e tenho especialização em Transformação Digital.<br>
+Já sou formada em Análise e Desenvolvimento de Sistemas e especializada em Transformação Digital.<br>
 <br>Atualmente estou focada em aprimorar minhas habilidades nas seguintes tecnologias:<br>  
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
