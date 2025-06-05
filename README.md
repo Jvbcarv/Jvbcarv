@@ -7,20 +7,24 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvbcarv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=FFFFF0" />
 </div>
 
+<br>
 <p align="center"> Sou Graduanda em Engenharia de Software no INATEL.<br>
 Já sou formada em Análise e Desenvolvimento de Sistemas e Especializada em Transformação Digital.<br>
-Além disso, sou bacharel em Admnistração de Empresas, </p>
+  <br>Atualmente, estou focada em me aprimorar nas seguintes tecnologias:<br>  
+Java | Spring Boot | Python | HTML & CSS | JavaScript | C++ | PHP </p>
 
-<p> Atualmente, estou focada em me aprimorar nas seguintes tecnologias: </p>
+<div align="center">
+  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
+    
+</div>
 
-- **Java**
-- **HTML & CSS**
-- **MySQL**
-- **MongoDB**
-- **Python**
-- **Spring Boot**
-- **Docker**
-- **AWS**
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvbcarv&bg_color=fffff0&color=846043&line=ff91a4&point=deb887&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
