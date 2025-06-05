@@ -6,7 +6,16 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jvbcarv&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=DEB887&bg_color=FFFFF0" alt="Jovana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvbcarv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=FFFFF0" />
 </div>
+Sou um desenvolvedor apaixonado por tecnologia e programação. Atualmente, estou focado em me aprimorar nas seguintes tecnologias:
 
+- **Java**
+- **HTML & CSS**
+- **MySQL**
+- **MongoDB**
+- **Python**
+- **Spring Boot**
+- **Docker**
+- **AWS**
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvbcarv&bg_color=fffff0&color=846043&line=ff91a4&point=deb887&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center"> 
