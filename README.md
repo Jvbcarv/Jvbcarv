@@ -21,7 +21,7 @@ I have a degree in Systems Analysis and Development and a specialization in Digi
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white" />
     
-</div>
+</div><br>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jvbcarv&bg_color=fffff0&color=846043&line=ff91a4&point=deb887&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
