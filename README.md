@@ -22,7 +22,7 @@
 
 
 
-<p align="center">🌐 Conecte-se comigo:</p>
+<p align="center">🌐 Conecte-se comigo</p>
 
 <div align="center"> 
 <a href = "mailto:jovanavbc@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
