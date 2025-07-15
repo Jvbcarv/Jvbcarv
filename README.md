@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jovana.;Sejam+bem-vindos!+:%29)](https://git.io/typing-svg)
 
-<p align="center"> Atualmente, curso Bacharelado em Engenharia de Software pelo Instituto Nacional de Telecomunicações – Inatel. <br><br> Já sou bacharel em Administração de Empresas e tecnóloga em Análise e Desenvolvimento de Sistemas, com especialização em Transformação Digital. Essa formação multidisciplinar me permite integrar a visão estratégica de negócios à aplicação prática de soluções tecnológicas.<br>
+<p align="center"> Atualmente, curso Bacharelado em Engenharia de Software pelo Instituto Nacional de Telecomunicações – Inatel. <br><br> Já sou bacharel em Administração de Empresas e tecnóloga em Análise e Desenvolvimento de Sistemas, com especialização em Transformação Digital. <br>  Essa formação multidisciplinar me permite integrar a visão estratégica de negócios à aplicação prática de soluções tecnológicas.<br>
 <br>Estou focada em aprimorar minhas habilidades nas seguintes tecnologias:<br>  
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
