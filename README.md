@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Olá!+Me+chamo+Jovana.;Sejam+bem-vindos!+:%29)](https://git.io/typing-svg)
 
-<p align="center"> Sou graduanda em Engenharia de Software no Instituto Nacional de Telecomunicações - Inatel. <br>Já sou tecnóloga em Análise e Desenvolvimento de Sistemas, bacharel em Administração de Empresas, e Especializada em Transformação Digital.<br>
-<br>Atualmente estou focada em aprimorar minhas habilidades nas seguintes tecnologias:<br>  
+<p align="center"> Atualmente curso Engenharia de Software, no Instituto Nacional de Telecomunicações - Inatel. <br><br> Sou bacharel em Administração de Empresas e tecnóloga em Análise e Desenvolvimento de Sistemas, além de possuir Especialização em Transformação Digital — o que me permite integrar a visão estratégica de negócios à aplicação prática de soluções tecnológicas.<br>
+<br>Estou focada em aprimorar minhas habilidades nas seguintes tecnologias:<br>  
 <div align="center">
   <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
