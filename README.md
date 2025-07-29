@@ -11,7 +11,6 @@
   <img src="https://img.shields.io/badge/-IA-000000?style=flat-square&logo=openai&logoColor=white" alt="Inteligência Artificial" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
-  <img src="https://img.shields.io/badge/-OCI%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI" />
 </div><br>
 
 <div align="center">  
