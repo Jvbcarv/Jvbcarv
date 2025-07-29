@@ -5,12 +5,13 @@
 <p align="center"> Atualmente, curso Bacharelado em Engenharia de Software pelo Instituto Nacional de Telecomunicações – Inatel. <br><br> Já sou bacharel em Administração de Empresas e tecnóloga em Análise e Desenvolvimento de Sistemas, com especialização em Transformação Digital. Essa formação multidisciplinar me permite integrar a visão estratégica de negócios à aplicação prática de soluções tecnológicas.<br>
 <br>📚 No momento estou focada em aprimorar minhas habilidades nas seguintes tecnologias:<br>  
 <div align="center">
-  <img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-    
+  <img src="https://img.shields.io/badge/-Data%20Science-003B57?style=flat-square&logo=databricks&logoColor=white" alt="Data Science" />
+  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/-IA-000000?style=flat-square&logo=openai&logoColor=white" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/-OCI%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="OCI" />
 </div><br>
 
 <div align="center">  
