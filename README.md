@@ -4,12 +4,23 @@
 
 <p align="center"> Atualmente, curso Bacharelado em Engenharia de Software pelo Instituto Nacional de Telecomunicações – Inatel. <br><br>📚 No momento estou focada em aprimorar minhas habilidades nas seguintes tecnologias:<br>  
 <div align="center">
+<!-- Linguagens e Frameworks -->
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/-Data%20Science-003B57?style=flat-square&logo=databricks&logoColor=white" alt="Data Science" />
-  <img src="https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/-IA-000000?style=flat-square&logo=openai&logoColor=white" alt="Inteligência Artificial" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="VueJS" />
+
+  <!-- Bibliotecas -->
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/-pywebview-35495E?style=flat-square&logo=python&logoColor=white" alt="pywebview" />
+
+  <!-- Bancos de Dados -->
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/-NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+  <!-- Sistemas Operacionais -->
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
 </div><br>
 
 <div align="center">  
