@@ -24,13 +24,10 @@
 </div><br>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Jvbcarv&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=DEB887&bg_color=FFFFF0" alt="Jovana github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jvbcarv&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=FFFFF0" />
 </div>
 
 <br>
-
-
 
 <p align="center">🌍 Conecte-se comigo</p>
 
